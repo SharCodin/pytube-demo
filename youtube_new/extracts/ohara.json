@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "4V273AelONr8rdMBYO9XrXL8L7I",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "yBgw_O09zfl5HOiIaxRlDu9ltgs",
+      "id": "UCovw7Ksx437NHFgGvg_tX2A",
+      "snippet": {
+        "title": "Ohara",
+        "description": "Hi, I'm Ohara and welcome to my channel. Here we break down your favorite Anime and Manga to find out what makes them tick. If you are into One Piece, Hunter x Hunter, JuJutsu Kaisen or Shounen in general, this is the place for you. \n\nIf you want to learn more about storytelling, world building, character design or simply want to enjoy your favorite characters a little bit more, you came to the right place. If this sounds like something that you're interested in and you're looking for a wonderful community to share your thoughts and ideas with, make sure to subscribe 🦊\n\nAnd I love coffee, like...a little bit too much ☕\n\n",
+        "customUrl": "oharathefox",
+        "publishedAt": "2018-09-24T18:56:45Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kn17KZuOrWwzy4CF-vs5tuSUVhhxvdY6pFw4de9BhZN2J8lgNr15Svc0EA05q4zO3wlHZ-gwd_M=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kn17KZuOrWwzy4CF-vs5tuSUVhhxvdY6pFw4de9BhZN2J8lgNr15Svc0EA05q4zO3wlHZ-gwd_M=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kn17KZuOrWwzy4CF-vs5tuSUVhhxvdY6pFw4de9BhZN2J8lgNr15Svc0EA05q4zO3wlHZ-gwd_M=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Ohara",
+          "description": "Hi, I'm Ohara and welcome to my channel. Here we break down your favorite Anime and Manga to find out what makes them tick. If you are into One Piece, Hunter x Hunter, JuJutsu Kaisen or Shounen in general, this is the place for you. \n\nIf you want to learn more about storytelling, world building, character design or simply want to enjoy your favorite characters a little bit more, you came to the right place. If this sounds like something that you're interested in and you're looking for a wonderful community to share your thoughts and ideas with, make sure to subscribe 🦊\n\nAnd I love coffee, like...a little bit too much ☕\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUovw7Ksx437NHFgGvg_tX2A"
+        }
+      },
+      "statistics": {
+        "viewCount": "78907299",
+        "subscriberCount": "601000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "144"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/02vxn",
+          "/m/02jjt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Ohara",
+          "description": "Hi, I'm Ohara and welcome to my channel. Here we break down your favorite Anime and Manga to find out what makes them tick. If you are into One Piece, Hunter x Hunter, JuJutsu Kaisen or Shounen in general, this is the place for you. \n\nIf you want to learn more about storytelling, world building, character design or simply want to enjoy your favorite characters a little bit more, you came to the right place. If this sounds like something that you're interested in and you're looking for a wonderful community to share your thoughts and ideas with, make sure to subscribe 🦊\n\nAnd I love coffee, like...a little bit too much ☕\n\n",
+          "keywords": "ohara \"anime character analysis\" \"Manga character analysis\" \"Anime explained\" \"Manga explained\" \"One piece character analysis\" \"Jujutsu Kaisen character analysis\" \"Hunter x hunter character analysis\" \"One piece explained\" \"Jujutsu Kaisen explained\" \"Hunter x hunter explained\" Anime Manga Explained \"One piece analysis\" \"Jujutsu Kaisen analysis\" \"Hunter x hunter analysis\" Analysis \"One piece moments\" \"One piece\" \"Jujutsu Kaisen\" \"Hunter x hunter\" Gojo Usopp Gon Sanji Sukuna kizaru Zoro Luffy",
+          "unsubscribedTrailer": "JCpennbZFus",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.ggpht.com/0v0rNVR_gsFVbKGrNYRVbU8AsmvskfsVP-e-aHID1CVczAziFWj6B6_HF7WpUGAY60YHEFeM"
+        }
+      },
+      "contentOwnerDetails": {}
+    }
+  ]
+}

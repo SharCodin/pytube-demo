@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "yVC7Pq7ndbyh6VGIhcIoG-a6zU4",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "9XNqTG6O1zEigj64IuCmnoPHwBU",
+      "id": "UCWPJwoVXJhv0-ucr3pUs1dA",
+      "snippet": {
+        "title": "Tony Teaches Tech",
+        "description": "This channel is my outlet for teaching everything technical that I know about creating an online business or blog including website hosting, WordPress themes and plugins, search engine optimization (SEO), server administration, and so much more.\n\nI publish a new video every single Tuesday and Thursday at a minimum. My goal is to create concise, yet value-packed videos that will leave you with a solid understanding of a technical topic related to websites and hosting.\n",
+        "customUrl": "tonyteachestech",
+        "publishedAt": "2011-11-28T00:05:05Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQuxeTzgojFZPN8U67gmmBeKOcFOdRAglGhiqbF9A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQuxeTzgojFZPN8U67gmmBeKOcFOdRAglGhiqbF9A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQuxeTzgojFZPN8U67gmmBeKOcFOdRAglGhiqbF9A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Tony Teaches Tech",
+          "description": "This channel is my outlet for teaching everything technical that I know about creating an online business or blog including website hosting, WordPress themes and plugins, search engine optimization (SEO), server administration, and so much more.\n\nI publish a new video every single Tuesday and Thursday at a minimum. My goal is to create concise, yet value-packed videos that will leave you with a solid understanding of a technical topic related to websites and hosting.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUWPJwoVXJhv0-ucr3pUs1dA"
+        }
+      },
+      "statistics": {
+        "viewCount": "4372284",
+        "subscriberCount": "38000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "449"
+      },
+      "topicDetails": {
+        "topicIds": [
+          "/m/01k8wb",
+          "/m/019_rr",
+          "/m/07c1v"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Tony Teaches Tech",
+          "description": "This channel is my outlet for teaching everything technical that I know about creating an online business or blog including website hosting, WordPress themes and plugins, search engine optimization (SEO), server administration, and so much more.\n\nI publish a new video every single Tuesday and Thursday at a minimum. My goal is to create concise, yet value-packed videos that will leave you with a solid understanding of a technical topic related to websites and hosting.\n",
+          "keywords": "\"tech tutorial\" \"website hosting\" hosting \"wordpress help\" \"site speed\" \"tony teaches tech\" \"web hosting\" \"wordpress site\"",
+          "unsubscribedTrailer": "y9cmdJRoHN4",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.ggpht.com/e6xw-cQlrYaMsat63Wpo9zszjqZs05IhXF-xgigmn4lhozHzrPTs1V6kdSqT1ACc-SIEq6xjvQ"
+        }
+      },
+      "contentOwnerDetails": {}
+    }
+  ]
+}
